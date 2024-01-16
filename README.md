@@ -1,3 +1,3 @@
-# Microsoft AI Tour Demo Repository
+# Microsoft AI Tour Repository
 
-Rod's Demo Repo for the Microsoft AI Tour
+Rod's Repo for the Microsoft AI Tour
